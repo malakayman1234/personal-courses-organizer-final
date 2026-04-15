@@ -84,9 +84,17 @@ border:2px solid black;
 padding:2px;
 /*form responsiveness*/
 width: 100%;
+margin: 0;
+padding: 0;
+box-sizing: border-box;
 max-width: 600px;
 margin: auto;}
 /*end*/
+/*fieldset responsiveness*/
+fieldset {
+    margin: 0;
+    padding: 0;
+}
 
 input,textarea{color:#44422D;
 /*input responsiveness*/
